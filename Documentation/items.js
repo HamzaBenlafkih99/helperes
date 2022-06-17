@@ -1,0 +1,51 @@
+export const data = [
+  {
+    title: "Hamza",
+    description: "I like traveling, would like to visit many countries",
+    image: "img/travel.png",
+    price: 50,
+    copies: 16,
+  },
+  {
+    title: "Hamza",
+    description: "I like traveling, would like to visit many countries",
+    image: "img/travel.png",
+    price: 50,
+    copies: 16,
+  },
+  {
+    title: "Hamza",
+    description: "I like traveling, would like to visit many countries",
+    image: "img/travel.png",
+    price: 50,
+    copies: 16,
+  },
+  {
+    title: "Hamza",
+    description: "I like traveling, would like to visit many countries",
+    image: "img/travel.png",
+    price: 50,
+    copies: 16,
+  },
+  {
+    title: "Hamza",
+    description: "I like traveling, would like to visit many countries",
+    image: "img/travel.png",
+    price: 50,
+    copies: 16,
+  },
+  {
+    title: "Hamza",
+    description: "I like traveling, would like to visit many countries",
+    image: "img/travel.png",
+    price: 50,
+    copies: 16,
+  },
+  {
+    title: "Hamza",
+    description: "I like traveling, would like to visit many countries",
+    image: "img/travel.png",
+    price: 50,
+    copies: 16,
+  },
+];
